@@ -1,3 +1,8 @@
+/*
+1. S는 T의 subsequence이어야 한다.
+2. f(str, a) : str에서 글자 a가 나타나는 빈도의 수
+f(s, a) + f(p, a) >= f(t, a)임을 만족해야 한다.
+*/
 #include <iostream>
 #include <string>
 #include <algorithm>
