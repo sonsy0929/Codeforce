@@ -1,6 +1,6 @@
 /*
 prefix-sum을 사용한 풀이
-prefix-sum을 이용해서 각 구간의 합을 O(n)만에 구할 수 있다!!
+prefix-sum을 이용해서 각 구간의 합을 O(1)만에 구할 수 있다!!
  */
 #include <iostream>
 #include <string>
